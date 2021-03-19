@@ -1,0 +1,2 @@
+INFO: Samsung M21S esta conectado DATA: 19/03/2021 15:32
+ERROR: Samsung M21S ja esta conectado DATA: 19/03/2021 15:32
