@@ -9,4 +9,10 @@ INFO: Samsung M21S esta conectado DATA: 19/03/2021 15:32 <br>
 ERROR: Samsung M21S ja esta conectado DATA: 19/03/2021 15:32
 </p>
 
+## :crystal_ball: Funções do Script:
+* ligar()
+* desligar()
+* conectar()
+* desconectar()
+
 ## Obrigado por ler.
